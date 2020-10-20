@@ -1,53 +1,56 @@
-{"restaurants": [
-    {
-        "id": "1",
-        "name": "WoodsHill ",
-        "dishes": [
+{
+    "data": {
+      "restaurants": [
+        {
+          "name": "WoodsHill ",
+          "description": "American cuisine, farm to table, with fresh produce every day",
+          "dishes": [
             {
-                "name": "Swordfish grill",
-                "price": 27
+              "name": "Swordfish grill",
+              "price": 27
             },
             {
-                "name": "Roasted Broccily ",
-                "price": 11
+              "name": "Roasted Broccily ",
+              "price": 11
             }
-        ]
-    },
-    {
-        "id": "2",
-        "name": "Fiorellas",
-        "dishes": [
+          ]
+        },
+        {
+          "name": "Fiorellas",
+          "description": "Italian-American home cooked food with fresh pasta and sauces",
+          "dishes": [
             {
-                "name": "Flatbread",
-                "price": 14
+              "name": "Flatbread",
+              "price": 14
             },
             {
-                "name": "Carbonara",
-                "price": 18
+              "name": "Carbonara",
+              "price": 18
             },
             {
-                "name": "Spaghetti",
-                "price": 19
+              "name": "Spaghetti",
+              "price": 19
             }
-        ]
-    },
-    {
-        "id": "3",
-        "name": "Karma",
-        "dishes": [
+          ]
+        },
+        {
+          "name": "Karma",
+          "description": "Malaysian-Chinese-Japanese fusion, with great bar and bartenders",
+          "dishes": [
             {
-                "name": "Dragon Roll",
-                "price": 12
+              "name": "Dragon Roll",
+              "price": 12
             },
             {
-                "name": "Pancake roll ",
-                "price": 11
+              "name": "Pancake roll ",
+              "price": 11
             },
             {
-                "name": "Cod cakes",
-                "price": 13
+              "name": "Cod cakes",
+              "price": 13
             }
-        ]
+          ]
+        }
+      ]
     }
-]
-}
+  }
