@@ -1,5 +1,9 @@
 # expressgraphql01
 
+Exercise 1 uses either data in index.js
+Exercise 2 uses either student data or restaurant data in
+restaurants.json
+
 # GraphQL
 
 ## here are the query and mutation structures
